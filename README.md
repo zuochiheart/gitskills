@@ -1,2 +1,2 @@
 # gitskillscreating a new branck 
-git is a free software
+git is a easy and free version control software
